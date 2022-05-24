@@ -94,3 +94,6 @@ Severely nerfed killing abilities of bees, no more wolrd-wide carnage when you g
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
+Added secret Waluigi love path
+Sex noises louder now
+New mustache pack available
